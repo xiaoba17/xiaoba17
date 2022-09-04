@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaoba17
 - 👀 I’m interested in cs
-- 🌱 I’m currently learning cs50x
+- 🌱 I’m currently learning computer science
 
 <!---
 xiaoba17/xiaoba17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
