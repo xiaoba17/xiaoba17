@@ -5,6 +5,17 @@ heterogeneous runtimes, performance engineering, and reliable engineering workfl
 
 我主要关注大模型推理系统、异构计算后端、性能工程，以及让研发流程更可靠的开发者工具。
 
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+> **Currently:** Exploring LLM scheduling, KV-cache correctness, and heterogeneous inference.
+
 ## What I'm working on
 
 - **LLM inference & serving** — scheduling, KV-cache correctness, distributed execution,
@@ -36,9 +47,9 @@ heterogeneous runtimes, performance engineering, and reliable engineering workfl
 - **[LLAISYS](https://github.com/xiaoba17/llaisys)** — implemented tensor operations,
   CPU operators, Qwen2 inference, and NVIDIA/CoreX runtime backends.
 
-## Toolbox
+## GitHub at a glance
 
-`C++` · `Python` · `TypeScript` · `Rust` · `Java` · `CUDA` · `Linux` · `GitHub Actions`
+<img src="https://github-readme-stats.vercel.app/api?username=xiaoba17&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub statistics" height="150" />
 
 I enjoy working close to the boundary between models and machines: turning scheduling,
 memory, kernels, and observability into systems that are easier to understand and operate.
