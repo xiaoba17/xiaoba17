@@ -46,15 +46,3 @@ heterogeneous runtimes, performance engineering, and reliable engineering workfl
   telemetry for Arm PMU events, including optional counters and event-group rotation.
 - **[LLAISYS](https://github.com/xiaoba17/llaisys)** — implemented tensor operations,
   CPU operators, Qwen2 inference, and NVIDIA/CoreX runtime backends.
-
-## GitHub at a glance
-
-<img src="https://github-readme-stats.vercel.app/api?username=xiaoba17&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub statistics" height="150" />
-
-I enjoy working close to the boundary between models and machines: turning scheduling,
-memory, kernels, and observability into systems that are easier to understand and operate.
-
----
-
-Explore my repositories below, or start with **[RepoFlow](https://github.com/xiaoba17/repoflow)**
-for a compact example of how I approach developer experience and reliable automation.
